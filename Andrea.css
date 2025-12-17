@@ -56,7 +56,7 @@ body {
     margin: 100px auto 20px; /* Centers the box + top spacing */
     padding: 20px; /* Inner spacing */
 
-    background-image: url("https://www.canva.com/templates/s/pink-background/");
+    background: rgba(255, 255, 255, 0.9); /* Light white background */
     border: 5px solid #000; /* Thick dark border for contrast */
     border-radius: 15px; /* Rounded corners */
 
@@ -130,6 +130,7 @@ h2, h3 {
     font-size: 1.1em; /* Slightly larger text */
     color: #555;
 }
+
 
 
 
