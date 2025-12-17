@@ -58,7 +58,7 @@ body {
 
     background: rgba(255, 255, 255, 0.9); /* Light white background */
     border: 5px solid #000; /* Thick dark border for contrast */
-    border-radius: 15px; /* Rounded corners */
+    border-radius: 90px; /* Rounded corners */
 
     /* Soft shadow to make it pop */
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
@@ -130,6 +130,7 @@ h2, h3 {
     font-size: 1.1em; /* Slightly larger text */
     color: #555;
 }
+
 
 
 
